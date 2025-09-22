@@ -11,5 +11,8 @@
     "onPush": true,
     "onPull_Request": true,
     "retentionDays": 30
+  },
+   "DeployToCustom": {
+    "EnvironmentType": "Onprem"
   }
 }
